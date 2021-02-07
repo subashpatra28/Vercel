@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79e6a62b.chunk.css",
+    "main.js": "/static/js/main.df4dfea5.chunk.js",
+    "main.js.map": "/static/js/main.df4dfea5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8c8f3df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8c8f3df.js.map",
+    "static/js/2.d932c8bc.chunk.js": "/static/js/2.d932c8bc.chunk.js",
+    "static/js/2.d932c8bc.chunk.js.map": "/static/js/2.d932c8bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.79e6a62b.chunk.css.map": "/static/css/main.79e6a62b.chunk.css.map",
+    "static/js/2.d932c8bc.chunk.js.LICENSE.txt": "/static/js/2.d932c8bc.chunk.js.LICENSE.txt",
+    "static/media/Honda.ef12d218.png": "/static/media/Honda.ef12d218.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8c8f3df.js",
+    "static/js/2.d932c8bc.chunk.js",
+    "static/css/main.79e6a62b.chunk.css",
+    "static/js/main.df4dfea5.chunk.js"
+  ]
+}
